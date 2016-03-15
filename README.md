@@ -37,7 +37,7 @@ that's all! Good export !!!
 ## Exported formats
 
 #### Android
-
+```
 ldpi
 mdpi
 tvdpi
@@ -45,13 +45,13 @@ hdpi
 xhdpi
 xxhdpi
 xxxhdpi
-
+```
 #### IOS
-
+```
 @1x
 @2x
 @3x
-
+```
 ### Developed By
 Rurio Luca- [rurio.luca@gmail.com](mailto:rurio.luca@gmail.com)
 
